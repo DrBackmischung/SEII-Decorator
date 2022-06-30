@@ -4,7 +4,7 @@ public class NormalCupcake implements Cupcake {
 
 	@Override
 	public String getDescription() {
-		return "Cupcake - oder auch Muffin fÃ¼r Reiche.";
+		return "Cupcake - oder auch Muffin für Reiche.";
 	}
 
 	@Override
